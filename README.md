@@ -1,6 +1,6 @@
 # RayTracer
 
-Raytracing application with a GUI. 
+RayTracing application with a GUI. 
 
 ### External libraries:
 
