@@ -41,7 +41,7 @@ RayTracing application with a GUI.
 
 ### Images:
 
-An object created using constructive solid geometry from a cube, a sphere and three cylinders. It is casting a soft shadow:
+An object created using constructive solid geometry from a cube, a sphere and three cylinders casting a soft shadow:
 
 <img src="images/raytracing1.png" alt="Raytracer" width="800"/>
 
